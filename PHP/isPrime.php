@@ -24,4 +24,3 @@ function isPrime($number){
 echo isPrime(3); // true or 1
 echo isPrime(4); // false or Not prime Number
 echo isPrime(5); // true or 1
-
